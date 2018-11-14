@@ -19,7 +19,22 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="100.Same-Tree.cpp" />
+    <ClCompile Include="101.Symmetric-Tree.cpp" />
+    <ClCompile Include="104.Maximum-Depth-of-Binary-Tree.cpp" />
+    <ClCompile Include="107.Binary-Tree-Level-Order-Traversal-II.cpp" />
     <ClCompile Include="27.Remove-Element.cpp" />
+    <ClCompile Include="28.Implement-strStr().cpp" />
+    <ClCompile Include="38.Count-and-Say.cpp" />
+    <ClCompile Include="53.Maximum-Subarray.cpp" />
+    <ClCompile Include="67.Add-Binary.cpp" />
+    <ClCompile Include="69.Sqrt(x).cpp" />
+    <ClCompile Include="70.Climbing-Stairs.cpp" />
+    <ClCompile Include="83.Remove-Duplicates-from-Sorted-List.cpp" />
+    <ClCompile Include="88.merge-sorted-array.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="35.Search-Insert-Position.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
@@ -103,13 +118,14 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderFile>
+      </PrecompiledHeaderFile>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="源文件">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
     <Filter Include="头文件">
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
@@ -13,10 +9,55 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Easy">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="27.Remove-Element.cpp">
-      <Filter>源文件</Filter>
+      <Filter>Easy</Filter>
     </ClCompile>
+    <ClCompile Include="28.Implement-strStr().cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="53.Maximum-Subarray.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="67.Add-Binary.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="69.Sqrt(x).cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="70.Climbing-Stairs.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="83.Remove-Duplicates-from-Sorted-List.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="88.merge-sorted-array.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="38.Count-and-Say.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="100.Same-Tree.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="104.Maximum-Depth-of-Binary-Tree.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="101.Symmetric-Tree.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="107.Binary-Tree-Level-Order-Traversal-II.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="35.Search-Insert-Position.cpp">
+      <Filter>Easy</Filter>
+    </None>
   </ItemGroup>
 </Project>
