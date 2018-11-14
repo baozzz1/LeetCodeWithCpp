@@ -17,10 +17,3 @@ public:
 		return i;
 	}
 };
-
-int main() {
-	Solution s;
-	vector<int> x = { 0,1,2,2,3,0,4,2 };
-	int val = 2;
-	s.removeElement(x, val);
-}
