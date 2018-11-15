@@ -23,6 +23,12 @@
     <ClCompile Include="101.Symmetric-Tree.cpp" />
     <ClCompile Include="104.Maximum-Depth-of-Binary-Tree.cpp" />
     <ClCompile Include="107.Binary-Tree-Level-Order-Traversal-II.cpp" />
+    <ClCompile Include="108.Convert-Sorted-Array-to-Binary-Search-Tree.cpp" />
+    <ClCompile Include="110.Balanced-Binary-Tree.cpp" />
+    <ClCompile Include="111.Minimum-Depth-of-Binary-Tree.cpp" />
+    <ClCompile Include="112. Path Sum.cpp" />
+    <ClCompile Include="113. Path Sum II.cpp" />
+    <ClCompile Include="114. Flatten Binary Tree to Linked List.cpp" />
     <ClCompile Include="27.Remove-Element.cpp" />
     <ClCompile Include="28.Implement-strStr().cpp" />
     <ClCompile Include="38.Count-and-Say.cpp" />

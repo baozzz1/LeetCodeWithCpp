@@ -13,6 +13,13 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
+    <Filter Include="Medium">
+      <UniqueIdentifier>{969a6ea0-a090-4c98-84ba-02fc96927cd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Easy">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="27.Remove-Element.cpp">
@@ -53,6 +60,25 @@
     </ClCompile>
     <ClCompile Include="107.Binary-Tree-Level-Order-Traversal-II.cpp">
       <Filter>Easy</Filter>
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="108.Convert-Sorted-Array-to-Binary-Search-Tree.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="110.Balanced-Binary-Tree.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="111.Minimum-Depth-of-Binary-Tree.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="112. Path Sum.cpp">
+      <Filter>Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="113. Path Sum II.cpp">
+      <Filter>Medium</Filter>
+    </ClCompile>
+    <ClCompile Include="114. Flatten Binary Tree to Linked List.cpp">
+      <Filter>Medium</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
