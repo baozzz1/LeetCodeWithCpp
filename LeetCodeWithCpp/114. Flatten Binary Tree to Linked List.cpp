@@ -1,14 +1,4 @@
-#include<iostream>
-#include<vector>
-#include<algorithm>
-using namespace std;
-
-struct TreeNode {
-	int val;
-	TreeNode *left;
-	TreeNode *right;
-	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-};
+#include"TreeNode.h"
 
 // Hard Question
 class Solution {
@@ -28,7 +18,3 @@ public:
 		onePath(curr->right, target);
 	}
 };
-int main() {
-	Solution s;
-	s.flatten()
-}

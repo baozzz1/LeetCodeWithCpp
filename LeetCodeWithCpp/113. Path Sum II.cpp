@@ -1,14 +1,5 @@
-#include<iostream>
-#include<vector>
-#include<algorithm>
-using namespace std;
+#include"TreeNode.h"
 
-struct TreeNode {
-	int val;
-	TreeNode *left;
-	TreeNode *right;
-	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-};
 class Solution {
 public:
 	vector<vector<int>> pathSum(TreeNode* root, int sum) {
