@@ -18,6 +18,9 @@
     <Filter Include="HeadFile">
       <UniqueIdentifier>{11006394-bd0b-4995-9704-254ea7464721}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Linked List">
+      <UniqueIdentifier>{7411289d-9456-4d00-b640-5c62ae2845cd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="27.Remove-Element.cpp">
@@ -98,6 +101,9 @@
     </None>
     <None Include="56. Merge Intervals.cpp">
       <Filter>Sort</Filter>
+    </None>
+    <None Include="2. Add Two Numbers.cpp">
+      <Filter>Linked List</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>

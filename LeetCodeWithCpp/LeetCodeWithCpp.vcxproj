@@ -45,6 +45,7 @@
     <ClCompile Include="Example.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="2. Add Two Numbers.cpp" />
     <None Include="35.Search-Insert-Position.cpp" />
     <None Include="56. Merge Intervals.cpp" />
   </ItemGroup>
