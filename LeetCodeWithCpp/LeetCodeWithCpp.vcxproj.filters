@@ -94,6 +94,9 @@
       <Filter>Sort</Filter>
     </ClCompile>
     <ClCompile Include="Example.cpp" />
+    <ClCompile Include="19. Remove Nth Node From End of List.cpp">
+      <Filter>Linked List</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="35.Search-Insert-Position.cpp">
