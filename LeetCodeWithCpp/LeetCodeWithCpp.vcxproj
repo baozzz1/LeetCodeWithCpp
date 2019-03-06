@@ -32,6 +32,8 @@
     <ClCompile Include="121. Best Time to Buy and Sell Stock.cpp" />
     <ClCompile Include="147. Insertion Sort List.cpp" />
     <ClCompile Include="19. Remove Nth Node From End of List.cpp" />
+    <ClCompile Include="23. Merge k Sorted Lists.cpp" />
+    <ClCompile Include="264. Ugly Number II.cpp" />
     <ClCompile Include="27.Remove-Element.cpp" />
     <ClCompile Include="28.Implement-strStr().cpp" />
     <ClCompile Include="38.Count-and-Say.cpp" />
@@ -43,6 +45,7 @@
     <ClCompile Include="75. Sort Colors.cpp" />
     <ClCompile Include="83.Remove-Duplicates-from-Sorted-List.cpp" />
     <ClCompile Include="88.merge-sorted-array.cpp" />
+    <ClCompile Include="94. Binary Tree Inorder Traversal.cpp" />
     <ClCompile Include="Example.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -60,7 +63,7 @@
     <ProjectGuid>{48983688-7AA9-4062-83F8-6F14ECA73F5C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>LeetCodeWithCpp</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

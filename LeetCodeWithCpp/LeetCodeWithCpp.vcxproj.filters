@@ -21,6 +21,9 @@
     <Filter Include="Linked List">
       <UniqueIdentifier>{7411289d-9456-4d00-b640-5c62ae2845cd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Tree">
+      <UniqueIdentifier>{b8db8311-fc60-4ff4-ac1a-36b1576a4026}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="27.Remove-Element.cpp">
@@ -95,6 +98,15 @@
     </ClCompile>
     <ClCompile Include="Example.cpp" />
     <ClCompile Include="19. Remove Nth Node From End of List.cpp">
+      <Filter>Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="94. Binary Tree Inorder Traversal.cpp">
+      <Filter>Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="23. Merge k Sorted Lists.cpp">
+      <Filter>Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="264. Ugly Number II.cpp">
       <Filter>Linked List</Filter>
     </ClCompile>
   </ItemGroup>

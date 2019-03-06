@@ -6,6 +6,7 @@
 #include<vector>
 #include<string>
 #include<algorithm>
+#include<queue>
 using namespace std;
 
 //Definition for singly-linked list.
