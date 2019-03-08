@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10. two pointers.cpp" />
     <ClCompile Include="100.Same-Tree.cpp" />
     <ClCompile Include="101.Symmetric-Tree.cpp" />
     <ClCompile Include="104.Maximum-Depth-of-Binary-Tree.cpp" />
@@ -47,6 +46,7 @@
     <ClCompile Include="83.Remove-Duplicates-from-Sorted-List.cpp" />
     <ClCompile Include="88.merge-sorted-array.cpp" />
     <ClCompile Include="94. Binary Tree Inorder Traversal.cpp" />
+    <ClCompile Include="95. Unique Binary Search Trees II.cpp" />
     <ClCompile Include="Example.cpp" />
   </ItemGroup>
   <ItemGroup>
