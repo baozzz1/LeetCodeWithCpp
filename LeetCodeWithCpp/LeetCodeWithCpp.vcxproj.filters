@@ -109,6 +109,7 @@
     <ClCompile Include="264. Ugly Number II.cpp">
       <Filter>Linked List</Filter>
     </ClCompile>
+    <ClCompile Include="10. two pointers.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="35.Search-Insert-Position.cpp">
