@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="10. two pointers.cpp" />
     <ClCompile Include="100.Same-Tree.cpp" />
     <ClCompile Include="101.Symmetric-Tree.cpp" />
     <ClCompile Include="104.Maximum-Depth-of-Binary-Tree.cpp" />

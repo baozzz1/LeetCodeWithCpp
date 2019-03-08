@@ -112,6 +112,7 @@
     <ClCompile Include="95. Unique Binary Search Trees II.cpp">
       <Filter>Tree</Filter>
     </ClCompile>
+    <ClCompile Include="10. two pointers.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="35.Search-Insert-Position.cpp">
