@@ -113,7 +113,9 @@
       <Filter>Tree</Filter>
     </ClCompile>
     <ClCompile Include="10. two pointers.cpp" />
-    <ClCompile Include="pddTest.cpp" />
+    <ClCompile Include="pddTest4.cpp" />
+    <ClCompile Include="pddTest3.cpp" />
+    <ClCompile Include="huaweiQuestion3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="35.Search-Insert-Position.cpp">
