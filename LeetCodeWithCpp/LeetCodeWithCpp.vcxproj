@@ -49,7 +49,7 @@
     <ClCompile Include="94. Binary Tree Inorder Traversal.cpp" />
     <ClCompile Include="95. Unique Binary Search Trees II.cpp" />
     <ClCompile Include="Example.cpp" />
-    <ClCompile Include="huaweiQuestion3.cpp" />
+    <ClCompile Include="huaweiTest3_2.cpp" />
     <ClCompile Include="pddTest3.cpp" />
     <ClCompile Include="pddTest4.cpp" />
   </ItemGroup>

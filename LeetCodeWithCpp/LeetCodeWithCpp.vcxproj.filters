@@ -115,7 +115,7 @@
     <ClCompile Include="10. two pointers.cpp" />
     <ClCompile Include="pddTest4.cpp" />
     <ClCompile Include="pddTest3.cpp" />
-    <ClCompile Include="huaweiQuestion3.cpp" />
+    <ClCompile Include="huaweiTest3_2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="35.Search-Insert-Position.cpp">
