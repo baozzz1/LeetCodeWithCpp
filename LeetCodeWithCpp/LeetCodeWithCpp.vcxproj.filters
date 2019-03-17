@@ -24,6 +24,9 @@
     <Filter Include="Tree">
       <UniqueIdentifier>{b8db8311-fc60-4ff4-ac1a-36b1576a4026}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Divide and Conquer">
+      <UniqueIdentifier>{548c1e23-db65-4088-b11a-307ae0402e9d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="27.Remove-Element.cpp">
@@ -116,6 +119,10 @@
     <ClCompile Include="pddTest4.cpp" />
     <ClCompile Include="pddTest3.cpp" />
     <ClCompile Include="huaweiTest3_2.cpp" />
+    <ClCompile Include="169. Majority Element.cpp">
+      <Filter>Divide and Conquer</Filter>
+    </ClCompile>
+    <ClCompile Include="675. Cut Off Trees for Golf Event.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="35.Search-Insert-Position.cpp">
