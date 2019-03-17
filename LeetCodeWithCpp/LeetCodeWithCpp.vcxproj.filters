@@ -122,7 +122,6 @@
     <ClCompile Include="169. Majority Element.cpp">
       <Filter>Divide and Conquer</Filter>
     </ClCompile>
-    <ClCompile Include="675. Cut Off Trees for Golf Event.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="35.Search-Insert-Position.cpp">

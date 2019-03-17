@@ -9,5 +9,8 @@
     <ClCompile Include="quiz1.cpp">
       <Filter>Mock1</Filter>
     </ClCompile>
+    <ClCompile Include="..\LeetCodeWithCpp\quiz2. 675. Cut Off Trees for Golf Event.cpp">
+      <Filter>Mock1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
