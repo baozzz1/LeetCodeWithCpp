@@ -4,13 +4,37 @@
     <Filter Include="Mock1">
       <UniqueIdentifier>{c7bd7761-6a70-44f4-ba75-351b4507058d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Mock2">
+      <UniqueIdentifier>{22c9c283-11e6-4a7b-b236-22b46e497efd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="headFile">
+      <UniqueIdentifier>{069209ea-6cd7-4fd8-b4b3-0b708c95fe95}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="quiz1.cpp">
       <Filter>Mock1</Filter>
     </ClCompile>
-    <ClCompile Include="..\LeetCodeWithCpp\quiz2. 675. Cut Off Trees for Golf Event.cpp">
+    <ClCompile Include="quiz2-2.cpp">
+      <Filter>Mock2</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz2. 675. Cut Off Trees for Golf Event.cpp">
       <Filter>Mock1</Filter>
     </ClCompile>
+    <ClCompile Include="Example.cpp" />
+    <ClCompile Include="13. Roman to Integer.cpp">
+      <Filter>Mock2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Interval.h">
+      <Filter>headFile</Filter>
+    </ClInclude>
+    <ClInclude Include="ListNode.h">
+      <Filter>headFile</Filter>
+    </ClInclude>
+    <ClInclude Include="TreeNode.h">
+      <Filter>headFile</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
