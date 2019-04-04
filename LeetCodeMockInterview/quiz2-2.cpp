@@ -52,18 +52,18 @@ public:
 		return pre->next;
 	}
 };
-
-int main() {
-	Solution slu;
-		ListNode* l1 = new ListNode(2);
-	ListNode* l2 = new ListNode(4);
-	ListNode* l3 = new ListNode(3);
-	l1->next = l2; l2->next = l3;
-
-	ListNode* s1 = new ListNode(5);
-	ListNode* s2 = new ListNode(6);
-	ListNode* s3 = new ListNode(4);
-	s1->next = s2; s2->next = s3;
-	ListNode* res = slu.addTwoNumbers(l1, s1);
-
-}
+//
+//int main() {
+//	Solution slu;
+//		ListNode* l1 = new ListNode(2);
+//	ListNode* l2 = new ListNode(4);
+//	ListNode* l3 = new ListNode(3);
+//	l1->next = l2; l2->next = l3;
+//
+//	ListNode* s1 = new ListNode(5);
+//	ListNode* s2 = new ListNode(6);
+//	ListNode* s3 = new ListNode(4);
+//	s1->next = s2; s2->next = s3;
+//	ListNode* res = slu.addTwoNumbers(l1, s1);
+//
+//}
