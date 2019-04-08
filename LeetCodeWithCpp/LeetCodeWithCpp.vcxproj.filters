@@ -116,9 +116,6 @@
       <Filter>Tree</Filter>
     </ClCompile>
     <ClCompile Include="10. two pointers.cpp" />
-    <ClCompile Include="pddTest4.cpp" />
-    <ClCompile Include="pddTest3.cpp" />
-    <ClCompile Include="huaweiTest3_2.cpp" />
     <ClCompile Include="169. Majority Element.cpp">
       <Filter>Divide and Conquer</Filter>
     </ClCompile>
