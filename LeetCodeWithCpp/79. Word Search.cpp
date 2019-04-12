@@ -65,12 +65,12 @@ public:
 	}
 };
 
-
-int main() {
-	vector<vector<char>>board = { {'A', 'B', 'C', 'E'},{'S', 'F', 'C', 'S'} ,{'A', 'D', 'E', 'E'}  };
-	string word = "ABCCED";
-	Solution slu;
-	slu.exist(board,word);
-
-	return 0;
-}
+//
+//int main() {
+//	vector<vector<char>>board = { {'A', 'B', 'C', 'E'},{'S', 'F', 'C', 'S'} ,{'A', 'D', 'E', 'E'}  };
+//	string word = "ABCCED";
+//	Solution slu;
+//	slu.exist(board,word);
+//
+//	return 0;
+//}

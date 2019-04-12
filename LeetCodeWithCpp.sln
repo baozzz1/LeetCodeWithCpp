@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MicrosoftTest", "MicrosoftT
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pddAndHuaweiTest", "pddAndHuaweiTest\pddAndHuaweiTest.vcxproj", "{E3174FC5-BA9C-4AF1-862A-B013F689E324}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Alibaba", "Alibaba\Alibaba.vcxproj", "{6070CC22-BEAD-443F-A77F-594974B60181}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,16 @@ Global
 		{E3174FC5-BA9C-4AF1-862A-B013F689E324}.Release|x64.Build.0 = Release|x64
 		{E3174FC5-BA9C-4AF1-862A-B013F689E324}.Release|x86.ActiveCfg = Release|Win32
 		{E3174FC5-BA9C-4AF1-862A-B013F689E324}.Release|x86.Build.0 = Release|Win32
+		{6070CC22-BEAD-443F-A77F-594974B60181}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6070CC22-BEAD-443F-A77F-594974B60181}.Debug|x64.ActiveCfg = Debug|x64
+		{6070CC22-BEAD-443F-A77F-594974B60181}.Debug|x64.Build.0 = Debug|x64
+		{6070CC22-BEAD-443F-A77F-594974B60181}.Debug|x86.ActiveCfg = Debug|Win32
+		{6070CC22-BEAD-443F-A77F-594974B60181}.Debug|x86.Build.0 = Debug|Win32
+		{6070CC22-BEAD-443F-A77F-594974B60181}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6070CC22-BEAD-443F-A77F-594974B60181}.Release|x64.ActiveCfg = Release|x64
+		{6070CC22-BEAD-443F-A77F-594974B60181}.Release|x64.Build.0 = Release|x64
+		{6070CC22-BEAD-443F-A77F-594974B60181}.Release|x86.ActiveCfg = Release|Win32
+		{6070CC22-BEAD-443F-A77F-594974B60181}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

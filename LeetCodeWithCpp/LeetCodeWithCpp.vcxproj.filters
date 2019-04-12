@@ -27,6 +27,9 @@
     <Filter Include="Divide and Conquer">
       <UniqueIdentifier>{548c1e23-db65-4088-b11a-307ae0402e9d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Hard">
+      <UniqueIdentifier>{170ac79e-08ae-495b-ad8e-6f99ca7716a5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="27.Remove-Element.cpp">
@@ -124,6 +127,12 @@
     </ClCompile>
     <ClCompile Include="79. Word Search.cpp">
       <Filter>Medium</Filter>
+    </ClCompile>
+    <ClCompile Include="347. Top K Frequent Elements.cpp">
+      <Filter>Medium</Filter>
+    </ClCompile>
+    <ClCompile Include="146. LRU Cache.cpp">
+      <Filter>Hard</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
