@@ -12,6 +12,7 @@ struct cmp
 {
 	bool operator()(pair<int, int> &p1, pair<int, int> &p2) {
 		return p1.second > p2.second;
+	}
 };
 class Solution {
 public:
@@ -38,11 +39,11 @@ public:
 };
 
 
-int main() {
-	Solution slu;
-	vector<int> v({ 1,1,1,2,2 });
-	int k = 2;
-	slu.topKFrequent(v,k);
-
-	return 0;
-}
+//int main() {
+//	Solution slu;
+//	vector<int> v({ 1,1,1,2,2 });
+//	int k = 2;
+//	slu.topKFrequent(v,k);
+//
+//	return 0;
+//}

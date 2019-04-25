@@ -134,6 +134,9 @@
     <ClCompile Include="146. LRU Cache.cpp">
       <Filter>Hard</Filter>
     </ClCompile>
+    <ClCompile Include="208. Implement Trie %28Prefix Tree%29.cpp">
+      <Filter>Medium</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="35.Search-Insert-Position.cpp">

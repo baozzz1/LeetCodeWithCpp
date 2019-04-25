@@ -35,6 +35,7 @@
     <ClCompile Include="147. Insertion Sort List.cpp" />
     <ClCompile Include="169. Majority Element.cpp" />
     <ClCompile Include="19. Remove Nth Node From End of List.cpp" />
+    <ClCompile Include="208. Implement Trie %28Prefix Tree%29.cpp" />
     <ClCompile Include="216. Combination Sum III.cpp" />
     <ClCompile Include="23. Merge k Sorted Lists.cpp" />
     <ClCompile Include="264. Ugly Number II.cpp" />
