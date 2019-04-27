@@ -30,6 +30,9 @@
     <Filter Include="Hard">
       <UniqueIdentifier>{170ac79e-08ae-495b-ad8e-6f99ca7716a5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="dynamic programming">
+      <UniqueIdentifier>{5724944e-8eb9-4d7d-9e64-d7b2727d69fc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="27.Remove-Element.cpp">
@@ -136,6 +139,12 @@
     </ClCompile>
     <ClCompile Include="208. Implement Trie %28Prefix Tree%29.cpp">
       <Filter>Medium</Filter>
+    </ClCompile>
+    <ClCompile Include="980. Unique Paths III.cpp">
+      <Filter>Hard</Filter>
+    </ClCompile>
+    <ClCompile Include="64. Minimum Path Sum.cpp">
+      <Filter>dynamic programming</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
